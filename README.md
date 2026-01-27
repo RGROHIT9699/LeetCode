@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RGROHIT9699/LeetCode/tree/master/0001-two-sum) |
+| [1200-minimum-absolute-difference](https://github.com/RGROHIT9699/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RGROHIT9699/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RGROHIT9699/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -60,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/RGROHIT9699/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RGROHIT9699/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RGROHIT9699/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sliding Window
