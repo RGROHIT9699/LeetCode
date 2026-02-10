@@ -21,6 +21,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/RGROHIT9699/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0001-two-sum](https://github.com/RGROHIT9699/LeetCode/tree/master/0001-two-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -139,8 +141,17 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/RGROHIT9699/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/RGROHIT9699/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
