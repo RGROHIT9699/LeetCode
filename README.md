@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RGROHIT9699/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0799-champagne-tower](https://github.com/RGROHIT9699/LeetCode/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RGROHIT9699/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Stack
