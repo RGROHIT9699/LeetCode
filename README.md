@@ -25,6 +25,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RGROHIT9699/LeetCode/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
@@ -50,6 +51,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RGROHIT9699/LeetCode/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/RGROHIT9699/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -115,6 +117,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RGROHIT9699/LeetCode/tree/master/0067-add-binary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RGROHIT9699/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RGROHIT9699/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/RGROHIT9699/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
