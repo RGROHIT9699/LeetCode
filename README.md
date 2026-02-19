@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RGROHIT9699/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0696-count-binary-substrings](https://github.com/RGROHIT9699/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RGROHIT9699/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RGROHIT9699/LeetCode/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/RGROHIT9699/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RGROHIT9699/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RGROHIT9699/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3713-longest-balanced-substring-i) |
