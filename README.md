@@ -31,12 +31,14 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/RGROHIT9699/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RGROHIT9699/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/RGROHIT9699/LeetCode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RGROHIT9699/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RGROHIT9699/LeetCode/tree/master/0001-two-sum) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RGROHIT9699/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -127,6 +129,7 @@
 | [0067-add-binary](https://github.com/RGROHIT9699/LeetCode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/RGROHIT9699/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/RGROHIT9699/LeetCode/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RGROHIT9699/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RGROHIT9699/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RGROHIT9699/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -188,4 +191,12 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/RGROHIT9699/LeetCode/tree/master/0401-binary-watch) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RGROHIT9699/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RGROHIT9699/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
