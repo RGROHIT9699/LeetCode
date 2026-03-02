@@ -11,6 +11,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RGROHIT9699/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/RGROHIT9699/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RGROHIT9699/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RGROHIT9699/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RGROHIT9699/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RGROHIT9699/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RGROHIT9699/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/RGROHIT9699/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RGROHIT9699/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RGROHIT9699/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RGROHIT9699/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
@@ -219,4 +221,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RGROHIT9699/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RGROHIT9699/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
