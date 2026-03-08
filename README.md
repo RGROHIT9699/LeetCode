@@ -14,6 +14,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RGROHIT9699/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RGROHIT9699/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RGROHIT9699/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1980-find-unique-binary-string](https://github.com/RGROHIT9699/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RGROHIT9699/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RGROHIT9699/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RGROHIT9699/LeetCode/tree/master/0001-two-sum) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RGROHIT9699/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/RGROHIT9699/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -150,6 +152,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RGROHIT9699/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RGROHIT9699/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RGROHIT9699/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/RGROHIT9699/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RGROHIT9699/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/RGROHIT9699/LeetCode/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/RGROHIT9699/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
