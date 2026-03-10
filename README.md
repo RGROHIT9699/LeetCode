@@ -131,6 +131,7 @@
 | [0799-champagne-tower](https://github.com/RGROHIT9699/LeetCode/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RGROHIT9699/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
