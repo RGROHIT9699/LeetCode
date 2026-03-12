@@ -220,6 +220,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/0052-n-queens-ii) |
 | [0401-binary-watch](https://github.com/RGROHIT9699/LeetCode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/RGROHIT9699/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
