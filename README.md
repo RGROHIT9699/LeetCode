@@ -18,6 +18,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RGROHIT9699/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RGROHIT9699/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RGROHIT9699/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/RGROHIT9699/LeetCode/tree/master/3379-transformed-array) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RGROHIT9699/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RGROHIT9699/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RGROHIT9699/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RGROHIT9699/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/RGROHIT9699/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -99,6 +101,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RGROHIT9699/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RGROHIT9699/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RGROHIT9699/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RGROHIT9699/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RGROHIT9699/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RGROHIT9699/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Enumeration
 |  |
 | ------- |
@@ -217,6 +221,7 @@
 | [0067-add-binary](https://github.com/RGROHIT9699/LeetCode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RGROHIT9699/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RGROHIT9699/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RGROHIT9699/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Backtracking
 |  |
 | ------- |
